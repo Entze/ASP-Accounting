@@ -1,0 +1,9 @@
+name: Accounting
+channels:
+  - conda-forge
+  - potassco
+dependencies:
+  - python>=3,<4
+  - clingo=5.5
+  - jupyter=1.0
+
